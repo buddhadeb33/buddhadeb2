@@ -15,7 +15,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
 
-</center>
+
 <br/>
 <h3 align="center">
     🔹
@@ -24,6 +24,7 @@
     <a href="https://github.com/buddhadeb33/Portfolio/issues">Request Feature</a>
 </h3>
 
+</center>
 ____________________
 
 
